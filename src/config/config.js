@@ -4,12 +4,19 @@ import * as firebaseui from 'firebaseui'
 
 export default {
   firebase: {
-    apiKey: 'AIzaSyBF5fv0Tu_EpYsTLf2JpthlBZjoTKByMxY',
-    authDomain: 'dappos-web.firebaseapp.com',
-    databaseURL: 'https://dappos-web.firebaseio.com',
-    projectId: 'dappos-web',
-    storageBucket: 'dappos-web.appspot.com',
-    // messagingSenderId: '59424549286'
+    // apiKey: 'AIzaSyBF5fv0Tu_EpYsTLf2JpthlBZjoTKByMxY',
+    // authDomain: 'dappos-web.firebaseapp.com',
+    // databaseURL: 'https://dappos-web.firebaseio.com',
+    // projectId: 'dappos-web',
+    // storageBucket: 'dappos-web.appspot.com',
+    // // messagingSenderId: '59424549286'
+
+    apiKey: 'AIzaSyBjKvirC4UdARZu5kLyd_115bU-NczQV9g',
+    authDomain: 'dappos-cfm1.firebaseapp.com',
+    databaseURL: 'https://dappos-cfm1.firebaseio.com',
+    projectId: 'dappos-cfm1',
+    storageBucket: 'dappos-cfm1.appspot.com',
+    // messagingSenderId: "974598458756"
   },
   firebaseUI: {
     signInSuccessUrl: '/',
